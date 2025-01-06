@@ -1,0 +1,3 @@
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/trixel.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/edit_cache.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "Src/init.cpp",
+                "Src/input.cpp",
+                "Src/screen.cpp",
+                "Src/trixel.cpp",
+                "Src/trixelmath.cpp",
+                "Src/world.cpp",
+                "Src/gui.cpp",
+                "Src/collision.cpp",
+                "Src/optimization/gpu_utils.cpp",
+                "Src/optimization/cpu_utils.cpp",
+                "-o",
+                "trixel.exe",
+                "-I./Src",
+                "-lmingw32",
+                "-lSDL2main",
+                "-lSDL2"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
