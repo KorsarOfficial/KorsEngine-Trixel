@@ -1,0 +1,4 @@
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2/CMakeFiles/trixel_engine.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2/CMakeFiles/test_gui.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2/CMakeFiles/ALL_BUILD.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2/CMakeFiles/ZERO_CHECK.dir

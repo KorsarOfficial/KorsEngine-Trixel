@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bebru\OneDrive\Рабочий стол\Trixel Engine\build\CMakeFiles\1ac4ba2948085511aaec65a2a8125cd4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{408F8A05-FC27-3344-BBB6-F7FEF9528BBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,3 +1,5 @@
-C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/trixel.dir
-C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/edit_cache.dir
-C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/rebuild_cache.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/trixel_engine.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/test_gui.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/trixel_app.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build/CMakeFiles/ZERO_CHECK.dir

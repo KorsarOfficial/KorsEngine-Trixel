@@ -1,0 +1,10 @@
+^C:\USERS\BEBRU\ONEDRIVE\РАБОЧИЙ СТОЛ\TRIXEL ENGINE\BUILD2\CMAKEFILES\038780616F2D2394630C3A4368AFF24D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine" "-BC:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/bebru/OneDrive/Рабочий стол/Trixel Engine/build2/Trixel3DEngine.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
